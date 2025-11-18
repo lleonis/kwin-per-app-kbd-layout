@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Name": "Per-App Keyboard Layout",
+        "Description": "Switch to alternate keyboard layout for specific apps",
+        "Icon": "preferences-system-windows",
+        "Id": "per-app-kbd-layout",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
